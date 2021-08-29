@@ -3,14 +3,14 @@
 body {
   margin: 0;
   padding: 0;
-  background: 3692A4;
+  background: #3692A4;
 	font-family: ubuntu;
 }
 
 header {
   display: flex;
   align-items: center;
-  background: #e7e7ff;
+  background: #60CEE3;
 }
 
 header img {
