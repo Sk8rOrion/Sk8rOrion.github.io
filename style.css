@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #3692A4;
+	font-family: ubuntu;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  background: #60CEE3;
+}
